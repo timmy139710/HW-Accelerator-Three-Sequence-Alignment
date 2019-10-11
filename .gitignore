@@ -1,0 +1,4 @@
+*.docx
+*.py
+.DS_Store
+FPGA_riffa/
