@@ -17,6 +17,8 @@ Full Paper Link: https://ieeexplore.ieee.org/document/8573523
 Three sequence alignment can be used to improve the accuracy of multiple sequence alignment in genomics. In this paper, we design a hardware accelerator for three-dimensional dynamic programming algorithm of three sequence alignment. By utilizing parallel processing elements, our design can find the optimal alignment scores in a shorter time than that required by software. In addition, we propose a memory-efficient slicing method for three-dimensional dynamic programming in order to process sequences of longer lengths. The hardware accelerator is implemented on both FPGA and ASIC. The ASIC implementation using TSMC 40nm technology can achieve at least 160× speedup over the software implementation.
 
 ### Motivation
+<img src=https://github.com/timmy139710/HW-Accelerator-Three-Sequence-Alignment/blob/master/pic/Motivation.png alt="block" width=500 height=300> 
+
 
 ### Algorithm
 
